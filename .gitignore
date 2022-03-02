@@ -1,0 +1,5 @@
+# MacOS metadata.
+.DS_Store
+
+# Ignore config (may contain secrets).
+config.php

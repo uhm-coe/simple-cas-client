@@ -1,0 +1,16 @@
+{
+    "name": "uhm-coe/simple-cas-client",
+    "description": "Simple web page requiring a CAS authentication (via phpCAS)."
+    "type": "project",
+    "require": {
+        "apereo/phpcas": "^1.4"
+    },
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Paul Ryan",
+            "email": "prar@hawaii.edu"
+        }
+    ],
+    "minimum-stability": "stable"
+}
