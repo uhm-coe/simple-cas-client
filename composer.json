@@ -1,6 +1,6 @@
 {
     "name": "uhm-coe/simple-cas-client",
-    "description": "Simple web page requiring a CAS authentication (via phpCAS)."
+    "description": "Simple web page requiring a CAS authentication (via phpCAS).",
     "type": "project",
     "require": {
         "apereo/phpcas": "^1.4"
